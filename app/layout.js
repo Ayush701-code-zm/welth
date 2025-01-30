@@ -102,6 +102,7 @@ export default function RootLayout({ children }) {
               {/* Copyright */}
               {/* <div className="mt-8  text-center text-gray-600">
                 <p>
+                ok
                   &copy; {new Date().getFullYear()} Welth. All rights reserved.
                 </p>
               </div> */}
